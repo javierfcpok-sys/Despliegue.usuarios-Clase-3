@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marca Laura"
+  short_description: "Diseña una identidad cálida para la agenda dental Laura"
+  default_prompt: "Usa $disenar-marca-laura para diseñar la identidad y los componentes de Laura."
